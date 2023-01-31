@@ -17,7 +17,7 @@
 
     <div class="wrapper">
       <div class="logo">
-        <img src="/img/icon_cloud.png" height="36px" width="42px">
+        <img src="rhylaz.github.io/slimweer.com/img/icon_cloud.png" height="36px" width="42px">
         <h1>SlimWeer&trade;</h1>
         <nav>
           <a href="/">Het weerbericht</a>
@@ -32,15 +32,15 @@
   <main>
     <div class="wrapper">
       <div class="container">
-        <h1>"<?php echo file_get_contents('C:/laragon/www/herslimweer/prediction.txt');?>"</h1>
+        <h1>"<?php echo file_get_contents('rhylaz.github.io/slimweer.com/index.php/prediction.txt');?>"</h1>
         <div class="vinkje_icon">
-          <img src="../img/icon_down.png" width="82px" height="52px">
+          <img src="rhylaz.github.io/slimweer.com/img/icon_down.png" width="82px" height="52px">
         </div>
         <h2>Over SlimWeer&trade;</h2>
         <div class="weather_icon">
           <p>SlimWeer is het weerbureau van Smart City. Onze voorspelling is iedere dag weer superslim, dankzij de
             supercomputers en onze weermannen en -vrouwen die nog ouderwets naar buiten kijken!</p>
-          <img src="../img/icon_cloud.png" width="121px" height="111px">
+          <img src="rhylaz.github.io/slimweer.com/img/icon_cloud.png" width="121px" height="111px">
         </div>
 
         <div class="form">
